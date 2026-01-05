@@ -51,7 +51,7 @@ const pusher = new Pusher('app-key', {
 - 💬 Join our [Discord server](https://discord.gg/ySfNxfh2gZ)
 - 🐛 [Report issues](https://github.com/sockudo/sockudo/issues)
 - 💡 [Discussions](https://github.com/sockudo/sockudo/discussions)
-- ✉️ Email: [office@sockudo.io](mailto:sockudorealtime@gmail.com)
+- ✉️ Email: [office@sockudo.io](mailto:office@sockudo.io)
 
 ---
 
