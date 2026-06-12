@@ -2,7 +2,7 @@
 
 A blazing-fast, scalable WebSocket server implementing the Pusher protocol in Rust.
 
-🚀 **[Get Started](https://github.com/sockudo/sockudo)** | 📚 **[Documentation](https://sockudo.app)** | 💬 **[Discord](https://discord.gg/ySfNxfh2gZ)**
+🚀 **[Get Started](https://github.com/sockudo/sockudo)** | 📚 **[Documentation](https://sockudo.io)** | 💬 **[Discord](https://discord.gg/ySfNxfh2gZ)**
 
 ---
 
